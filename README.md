@@ -30,7 +30,7 @@ content = """
 <body>
 <h1>Name:ANISH M.J</h1>
 <h2>21500369</h2>
-<h3>Dept:Artificial Intelligence and Data Science
+<h3>Dept:Artificial Intelligence and Data Science</h3>
 </body>
 </html>
 """
